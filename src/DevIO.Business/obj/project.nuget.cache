@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2wMY0ctqe+sFnTnvtuqpUJXYW48jx5qy1G/k4saCQSGjcLe3rA98d2roL/HnGfB4UA+xCXQ+oFR2FmD9lLFog==",
+  "success": true,
+  "projectFilePath": "/home/gustavosantos/www/studies/dotnet/ApiCompleta/src/DevIO.Business/DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "/home/gustavosantos/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
